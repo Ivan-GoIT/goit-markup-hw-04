@@ -151,12 +151,7 @@ body {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../image/hero/heroImg.jpg),
-    linear-gradient(
-       #C4C4C4,
-       #C4C4C4
-    )
-  ;
+    url(../image/hero/heroImg.jpg), linear-gradient(#c4c4c4, #c4c4c4);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
